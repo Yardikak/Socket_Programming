@@ -1,4 +1,4 @@
-#Client
+#CLIENT
 from socket import* #Meng-import library socket
 
 serverName = 'localhost' #Membuat nama server

@@ -1,4 +1,4 @@
-#Server
+#SERVER
 from socket import * #Meng-import library socket
 serverPort = 12000 #Membuat koneksi port
 serverSocket = socket(AF_INET, SOCK_STREAM) #Membuat objek socket baru
