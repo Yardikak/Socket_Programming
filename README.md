@@ -1,2 +1,2 @@
-# Web_Socket
-Simple Web Socket Project
+# Socket_Programming
+Simple Socket Program Project
